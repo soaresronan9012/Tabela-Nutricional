@@ -1,0 +1,47 @@
+body {
+    margin: auto;
+    padding: 30px;
+    background-color:#948b8b;
+}
+
+.title {
+    width: 150;
+    height: 50px;
+    font-size: large;
+    background-color: rgb(185, 41, 41);
+    text-align: center;
+}
+
+h2 {
+    padding:40px;
+    font-weight: bold;
+}
+
+#title-list {
+  
+    font-weight: bold;
+}
+
+h3,#tab{
+    text-align: center;
+}
+
+.tabl {
+    text-align: center;
+}
+
+table {
+    width: 700px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+thead {
+    background-color: rgb(185, 41, 41);
+}
+
+td {
+    border: 1px solid black;
+}
